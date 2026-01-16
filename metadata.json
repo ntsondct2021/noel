@@ -1,0 +1,7 @@
+{
+  "name": "Noel AI Magic Studio",
+  "description": "Ứng dụng chỉnh sửa ảnh Noel chuyên nghiệp sử dụng AI để biến hình ảnh của bạn thành các tác phẩm nghệ thuật Giáng sinh theo nhiều phong cách khác nhau.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
